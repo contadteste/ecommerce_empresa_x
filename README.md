@@ -16,3 +16,10 @@ __melhorias 1__, melhorias 2
 * CSS
 * PHP
 * MYSQL
+
+### Funcionalidades a desenvolver:
+
+1. HTML
+2. CSS
+3. PHP
+4. MYSQL
