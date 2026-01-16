@@ -1,1 +1,7 @@
-# ecommerce_empresa_x
+# ecommerce empresa x
+
+Vamos criar um e-commerce, para a empresa x
+
+## Funcionalidades:
+
+checkout, tela de produto, catálogo, home com banner
