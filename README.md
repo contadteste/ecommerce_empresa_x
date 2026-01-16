@@ -38,5 +38,5 @@ function soma(a + b) {
 
 ## lista de tarefas:
 
-- [ x ] HTML
+- [x] HTML
 - [ ] CSS
