@@ -27,3 +27,11 @@ __melhorias 1__, melhorias 2
 ## Links:
 
 [Github](https://github.com/contadteste/ecommerce_empresa_x)
+
+## codigo da função soma 
+
+```javascript
+function soma(a + b) {
+    return a + b;
+}
+```
